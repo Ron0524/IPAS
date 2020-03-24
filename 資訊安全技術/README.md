@@ -6,9 +6,10 @@
   4.新興科技安全:雲端+行動+IOT
 ```
 ### 注意事項:
+```
       請務必時時看看分類題庫
       https://github.com/MyDearGreatTeacher/IPAS/tree/master/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8%E6%8A%80%E8%A1%93
-
+```
 ### 1.網路與通訊安全
 ```
     1.1.網路安全Network Security
@@ -23,7 +24,7 @@
       1.2.2.無線網路攻擊手法分析
 ```
 ### 2.作業系統與應用程式安全
-  ```
+```
   2.1.作業系統安全:windows作業系統| Linux作業系統 
      2.1.1.windows作業系統|Windows指令|Sysinternals|Powershell技術
      2.1.2.windows作業系統安全--Windows XP滲透測試
@@ -40,9 +41,9 @@
     2.2.3.程式與開發安全
         a.程式漏洞分析: Buffer overflow
         b.SDLC vs SSDLC
-    ```
+ ```
 ### 3.資安維運技術
-  ```
+```
   3.1.惡意程式防護與弱點管理(vulnerability management)
     3.1.1.惡意程式malware
     3.1.2.惡意程式分析
@@ -79,7 +80,7 @@
     3.3.4.Apache網站伺服器日誌及其管理
    
     OWASP Top 10 Proactive Controls 2018
-    ```
+```
 ### 4.新興科技安全
   ```
   4.1.雲端安全概論cloud security
