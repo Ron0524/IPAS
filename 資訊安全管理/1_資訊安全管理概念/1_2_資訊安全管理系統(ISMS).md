@@ -1,4 +1,5 @@
-# 資訊安全管理系統(Information Security Management System, ISMS)
+# 資訊安全管理系統
+(Information Security Management System, ISMS)
 # 導入ISMS的目的
 # 導入ISMS的過程與程序
 # 導入ISMS的關鍵主義事項
